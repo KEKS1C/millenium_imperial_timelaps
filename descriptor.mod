@@ -1,0 +1,17 @@
+version="0.0.1"
+tags={
+	"Map"
+	"Alternative History"
+	"Events"
+	"Gameplay"
+	"Graphics"
+	"Ideologies"
+	"Technologies"
+	"Sound"
+	"National Focuses"
+	"Military"
+}
+name="Millenium: The Imperial Timelaps"
+replace_path="map"
+replace_path="history/states"
+supported_version="1.11.11"
